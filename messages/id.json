@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Bramasta — Full-Stack Developer",
+    "description": "Portofolio Bramasta Dhuanda Prastiko, Full-Stack Developer & UI/UX Enthusiast berbasis di Bandung, Indonesia.",
+    "keywords": "full-stack developer, web developer, react, next.js, typescript, portfolio, bandung, indonesia",
+    "pages": {
+      "home": {
+        "title": "Beranda",
+        "description": "Portofolio Bramasta Dhuanda Prastiko, Full-Stack Developer & UI/UX Enthusiast berbasis di Bandung, Indonesia."
+      },
+      "about": {
+        "title": "Tentang Saya",
+        "description": "Kenali lebih dekat Bramasta — perjalanan, keahlian, pendidikan, dan pengalaman profesionalnya."
+      },
+      "projects": {
+        "title": "Proyek",
+        "description": "Telusuri proyek web, mobile, dan desain Bramasta — dari proyek pribadi hingga freelance."
+      },
+      "achievements": {
+        "title": "Pencapaian",
+        "description": "Sertifikasi, kursus, dan penghargaan yang diraih oleh Bramasta Dhuanda Prastiko."
+      },
+      "contact": {
+        "title": "Kontak",
+        "description": "Hubungi Bramasta — melalui email, media sosial, atau formulir kontak."
+      }
+    }
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "projects": "Proyek",
+    "achievements": "Pencapaian",
+    "contact": "Kontak",
+    "open_menu": "Buka menu navigasi",
+    "close_menu": "Tutup menu"
+  },
+  "home": {
+    "greeting": "Halo, saya",
+    "role": "Full-Stack Developer & UI/UX Enthusiast",
+    "tagline": "Membangun produk digital yang berdampak — dari ide menjadi kenyataan.",
+    "available": "Terbuka untuk Peluang Baru",
+    "not_available": "Sedang Tidak Tersedia",
+    "scroll": "Gulir ke bawah",
+    "cta_projects": "Lihat Proyek",
+    "cta_contact": "Hubungi Saya",
+    "cta_cv": "Unduh CV",
+    "stats": {
+      "experience": "Tahun Pengalaman",
+      "projects": "Proyek Selesai",
+      "clients": "Klien Puas",
+      "certificates": "Sertifikasi"
+    },
+    "featured_projects": "Proyek Unggulan",
+    "view_all_projects": "Lihat Semua Proyek",
+    "work_mode": "Onsite / Remote",
+    "skills_title": "Keahlian",
+    "skills_subtitle": "Keahlian profesional saya",
+    "skills_filter_all": "Semua",
+    "creations_title": "Kreasi",
+    "creations_subtitle": "Konten yang saya buat di media sosial",
+    "creations_views": "penonton",
+    "creations_likes": "suka",
+    "creations_view_more": "Lihat semua konten"
+  },
+  "about": {
+    "title": "Tentang Saya",
+    "subtitle": "Mengenal lebih dekat siapa saya, perjalanan, dan keahlian saya",
+    "bio_title": "Biografi",
+    "skills_title": "Keahlian & Teknologi",
+    "education_title": "Pendidikan",
+    "experience_title": "Pengalaman",
+    "download_cv": "Unduh CV",
+    "currently_at": "Saat ini di",
+    "graduated_from": "Lulus dari",
+    "gpa": "IPK",
+    "present": "Sekarang",
+    "fulltime": "Penuh Waktu",
+    "parttime": "Paruh Waktu",
+    "freelance": "Freelance",
+    "internship": "Magang",
+    "hybrid": "Hybrid",
+    "remote": "Remote",
+    "onsite": "Onsite",
+    "current": "Saat ini",
+    "career_subtitle": "Perjalanan profesional saya",
+    "education_subtitle": "Latar belakang akademik saya",
+    "show_details": "Tampilkan detail",
+    "hide_details": "Sembunyikan detail",
+    "tasks": "Tugas",
+    "learnings_title": "Apa yang Saya Pelajari",
+    "impact_title": "Dampak",
+    "responsibilities": "Tanggung Jawab",
+    "tech_used": "Teknologi yang Digunakan",
+    "years_exp": "tahun pengalaman",
+    "skill_levels": {
+      "beginner": "Pemula",
+      "intermediate": "Menengah",
+      "advanced": "Mahir",
+      "expert": "Ahli"
+    },
+    "skill_categories": {
+      "primary": "Keahlian Utama",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile",
+      "database": "Database",
+      "tools": "Tools & DevOps"
+    }
+  },
+  "projects": {
+    "title": "Proyek Saya",
+    "subtitle": "Etalase proyek pribadi maupun open-source — dari web app, mobile app, hingga solusi AI",
+    "all": "Semua",
+    "featured": "Unggulan",
+    "label_type": "Tipe",
+    "label_category": "Kategori",
+    "view_demo": "Lihat Demo",
+    "view_code": "Lihat Kode",
+    "live_preview": "Preview Langsung",
+    "source_code": "Kode Sumber",
+    "no_projects": "Belum ada proyek dalam kategori ini",
+    "loading": "Memuat proyek...",
+    "tech_stack": "Tech Stack",
+    "type": "Tipe",
+    "year": "Tahun",
+    "duration": "Durasi",
+    "team_size": "Ukuran Tim",
+    "role": "Peran",
+    "status": {
+      "completed": "Selesai",
+      "in_progress": "Sedang Berjalan",
+      "archived": "Diarsipkan"
+    },
+    "type_labels": {
+      "personal": "Pribadi",
+      "freelance": "Freelance",
+      "internship": "Magang",
+      "competition": "Kompetisi"
+    },
+    "categories": {
+      "all": "Semua",
+      "web": "Web",
+      "mobile": "Mobile",
+      "ai": "AI / ML",
+      "fullstack": "Full-Stack",
+      "other": "Lainnya"
+    },
+    "back_to_projects": "Kembali ke Proyek"
+  },
+  "achievements": {
+    "title": "Pencapaian",
+    "subtitle": "Sertifikasi, penghargaan, dan pengakuan yang telah saya raih",
+    "categories": {
+      "all": "Semua",
+      "professional": "Sertifikasi Profesional",
+      "course": "Kursus & Pelatihan",
+      "award": "Penghargaan",
+      "recognition": "Pengakuan"
+    },
+    "issued_by": "Dikeluarkan oleh",
+    "issued_on": "Dikeluarkan pada",
+    "expires": "Berlaku hingga",
+    "no_expiry": "Tidak Kedaluwarsa",
+    "credential_id": "ID Kredensial",
+    "verify": "Verifikasi",
+    "view_credential": "Lihat Kredensial",
+    "tags": "Tag",
+    "featured": "Unggulan",
+    "total": "Total Pencapaian",
+    "search_placeholder": "Cari pencapaian...",
+    "filter_type": "Tipe",
+    "filter_category": "Kategori",
+    "all_types": "Semua Tipe",
+    "all_categories": "Semua Kategori",
+    "no_results": "Tidak ada pencapaian yang cocok",
+    "copy_link": "Salin tautan",
+    "copied": "Disalin!",
+    "close": "Tutup",
+    "issued_on_label": "DITERBITKAN",
+    "type": {
+      "certificate": "Sertifikat",
+      "badge": "Lencana"
+    }
+  },
+  "contact": {
+    "title": "Kontak",
+    "subtitle": "Mari saling terhubung.",
+    "socials_title": "Temukan saya di media sosial",
+    "form_title": "Atau kirimkan saya pesan",
+    "name": "Nama",
+    "email": "Email",
+    "message": "Pesan",
+    "name_placeholder": "Nama Anda",
+    "email_placeholder": "kamu@contoh.com",
+    "message_placeholder": "Ceritakan tentang proyekmu, ide, atau sekadar menyapa...",
+    "send": "Kirim Email",
+    "sending": "Mengirim...",
+    "success_title": "Pesan terkirim!",
+    "success_message": "Terima kasih sudah menghubungi. Saya akan membalas dalam 1–2 hari kerja.",
+    "error_title": "Gagal mengirim",
+    "error_message": "Terjadi kesalahan. Silakan coba lagi atau email langsung ke saya.",
+    "cards": {
+      "email_title": "Tetap Terhubung",
+      "email_desc": "Hubungi saya langsung — selalu senang mendiskusikan ide dan peluang baru.",
+      "email_cta": "Pergi ke Gmail",
+      "instagram_title": "Ikuti Perjalanan Saya",
+      "instagram_desc": "Kehidupan dev dan proyek kreatif di balik layar.",
+      "instagram_cta": "Pergi ke Instagram",
+      "linkedin_title": "Mari Terhubung",
+      "linkedin_desc": "Jaringan profesional, karier, dan artikel teknologi.",
+      "linkedin_cta": "Pergi ke LinkedIn",
+      "tiktok_title": "Bergabung dalam Keseruan",
+      "tiktok_desc": "Konten teknologi singkat dan tips coding.",
+      "tiktok_cta": "Pergi ke TikTok",
+      "github_title": "Jelajahi Kode",
+      "github_desc": "Proyek open-source, eksperimen, dan side project.",
+      "github_cta": "Pergi ke GitHub"
+    },
+    "validation": {
+      "name_required": "Nama wajib diisi",
+      "email_required": "Email wajib diisi",
+      "email_invalid": "Format email tidak valid",
+      "message_required": "Pesan wajib diisi",
+      "message_min": "Pesan minimal 10 karakter"
+    }
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "retry": "Coba Lagi",
+    "back": "Kembali",
+    "next": "Selanjutnya",
+    "previous": "Sebelumnya",
+    "read_more": "Selengkapnya",
+    "see_all": "Lihat Semua",
+    "close": "Tutup",
+    "open": "Buka",
+    "copy": "Salin",
+    "copied": "Tersalin!",
+    "share": "Bagikan",
+    "download": "Unduh",
+    "preview": "Pratinjau",
+    "featured": "Unggulan",
+    "new": "Baru",
+    "updated": "Diperbarui",
+    "coming_soon": "Segera Hadir",
+    "in_progress": "Sedang Berjalan",
+    "completed": "Selesai",
+    "months": {
+      "jan": "Januari",
+      "feb": "Februari",
+      "mar": "Maret",
+      "apr": "April",
+      "may": "Mei",
+      "jun": "Juni",
+      "jul": "Juli",
+      "aug": "Agustus",
+      "sep": "September",
+      "oct": "Oktober",
+      "nov": "November",
+      "dec": "Desember"
+    }
+  },
+  "footer": {
+    "made_with": "Dibuat dengan",
+    "and": "dan",
+    "by": "oleh",
+    "rights": "Hak cipta dilindungi.",
+    "back_to_top": "Kembali ke atas"
+  },
+  "theme": {
+    "toggle": "Ganti tema",
+    "light": "Mode Terang",
+    "dark": "Mode Gelap",
+    "system": "Ikuti Sistem"
+  },
+  "language": {
+    "toggle": "Ganti bahasa",
+    "id": "Bahasa Indonesia",
+    "en": "English",
+    "switch_to": "Ganti ke"
+  },
+  "404": {
+    "title": "Halaman Tidak Ditemukan",
+    "description": "Halaman yang Anda cari tidak ada atau telah dipindahkan.",
+    "cta": "Kembali ke Beranda"
+  }
+}

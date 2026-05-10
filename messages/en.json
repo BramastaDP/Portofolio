@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Bramasta — Full-Stack Developer",
+    "description": "Portfolio of Bramasta Dhuanda Prastiko, Full-Stack Developer & UI/UX Enthusiast based in Bandung, Indonesia.",
+    "keywords": "full-stack developer, web developer, react, next.js, typescript, portfolio, bandung, indonesia",
+    "pages": {
+      "home": {
+        "title": "Home",
+        "description": "Portfolio of Bramasta Dhuanda Prastiko, Full-Stack Developer & UI/UX Enthusiast based in Bandung, Indonesia."
+      },
+      "about": {
+        "title": "About Me",
+        "description": "Learn more about Bramasta — his journey, skills, education, and professional experience."
+      },
+      "projects": {
+        "title": "Projects",
+        "description": "Browse Bramasta's web, mobile, and design projects — from personal builds to freelance work."
+      },
+      "achievements": {
+        "title": "Achievements",
+        "description": "Certifications, courses, and awards earned by Bramasta Dhuanda Prastiko."
+      },
+      "contact": {
+        "title": "Contact",
+        "description": "Get in touch with Bramasta — via email, social media, or the contact form."
+      }
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "achievements": "Achievements",
+    "contact": "Contact",
+    "open_menu": "Open navigation menu",
+    "close_menu": "Close menu"
+  },
+  "home": {
+    "greeting": "Hi, I'm",
+    "role": "Full-Stack Developer & UI/UX Enthusiast",
+    "tagline": "Building impactful digital products — turning ideas into reality.",
+    "available": "Open to New Opportunities",
+    "not_available": "Currently Unavailable",
+    "scroll": "Scroll down",
+    "cta_projects": "View Projects",
+    "cta_contact": "Contact Me",
+    "cta_cv": "Download CV",
+    "stats": {
+      "experience": "Years Experience",
+      "projects": "Projects Completed",
+      "clients": "Happy Clients",
+      "certificates": "Certifications"
+    },
+    "featured_projects": "Featured Projects",
+    "view_all_projects": "View All Projects",
+    "work_mode": "Onsite / Remote",
+    "skills_title": "Skills",
+    "skills_subtitle": "My professional skills",
+    "skills_filter_all": "All",
+    "creations_title": "Creations",
+    "creations_subtitle": "Content I create on social media",
+    "creations_views": "views",
+    "creations_likes": "likes",
+    "creations_view_more": "View all content"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me, my journey, and my expertise",
+    "bio_title": "Biography",
+    "skills_title": "Skills & Technologies",
+    "education_title": "Education",
+    "experience_title": "Experience",
+    "download_cv": "Download CV",
+    "currently_at": "Currently at",
+    "graduated_from": "Graduated from",
+    "gpa": "GPA",
+    "present": "Present",
+    "fulltime": "Full-time",
+    "parttime": "Part-time",
+    "freelance": "Freelance",
+    "internship": "Internship",
+    "hybrid": "Hybrid",
+    "remote": "Remote",
+    "onsite": "Onsite",
+    "current": "Current",
+    "career_subtitle": "My professional journey",
+    "education_subtitle": "My academic background",
+    "show_details": "Show details",
+    "hide_details": "Hide details",
+    "tasks": "Tasks",
+    "learnings_title": "What I Learned",
+    "impact_title": "Impact",
+    "responsibilities": "Responsibilities",
+    "tech_used": "Technologies Used",
+    "years_exp": "years of experience",
+    "skill_levels": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced",
+      "expert": "Expert"
+    },
+    "skill_categories": {
+      "primary": "Core Skills",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile",
+      "database": "Database",
+      "tools": "Tools & DevOps"
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "Showcase of personal and open-source projects — from web apps to mobile apps and AI solutions",
+    "all": "All",
+    "featured": "Featured",
+    "label_type": "Type",
+    "label_category": "Category",
+    "view_demo": "View Demo",
+    "view_code": "View Code",
+    "live_preview": "Live Preview",
+    "source_code": "Source Code",
+    "no_projects": "No projects in this category yet",
+    "loading": "Loading projects...",
+    "tech_stack": "Tech Stack",
+    "type": "Type",
+    "year": "Year",
+    "duration": "Duration",
+    "team_size": "Team Size",
+    "role": "Role",
+    "status": {
+      "completed": "Completed",
+      "in_progress": "In Progress",
+      "archived": "Archived"
+    },
+    "type_labels": {
+      "personal": "Personal",
+      "freelance": "Freelance",
+      "internship": "Internship",
+      "competition": "Competition"
+    },
+    "categories": {
+      "all": "All",
+      "web": "Web",
+      "mobile": "Mobile",
+      "ai": "AI / ML",
+      "fullstack": "Full-Stack",
+      "other": "Other"
+    },
+    "back_to_projects": "Back to Projects"
+  },
+  "achievements": {
+    "title": "Achievements",
+    "subtitle": "Certifications, awards, and recognitions I've earned",
+    "categories": {
+      "all": "All",
+      "professional": "Professional Certificates",
+      "course": "Courses & Training",
+      "award": "Awards",
+      "recognition": "Recognition"
+    },
+    "issued_by": "Issued by",
+    "issued_on": "Issued on",
+    "expires": "Expires",
+    "no_expiry": "No Expiry",
+    "credential_id": "Credential ID",
+    "verify": "Verify",
+    "view_credential": "View Credential",
+    "tags": "Tags",
+    "featured": "Featured",
+    "total": "Total Achievements",
+    "search_placeholder": "Search achievements...",
+    "filter_type": "Type",
+    "filter_category": "Category",
+    "all_types": "All Types",
+    "all_categories": "All Categories",
+    "no_results": "No achievements match your filter",
+    "copy_link": "Copy link",
+    "copied": "Copied!",
+    "close": "Close",
+    "issued_on_label": "ISSUED ON",
+    "type": {
+      "certificate": "Certificate",
+      "badge": "Badge"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's connect.",
+    "socials_title": "Find me on social media",
+    "form_title": "Or send me a message",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "name_placeholder": "Your name",
+    "email_placeholder": "you@example.com",
+    "message_placeholder": "Tell me about your project, idea, or just say hello...",
+    "send": "Send Email",
+    "sending": "Sending...",
+    "success_title": "Message sent!",
+    "success_message": "Thanks for reaching out. I'll reply within 1–2 business days.",
+    "error_title": "Failed to send",
+    "error_message": "Something went wrong. Please try again or email me directly.",
+    "cards": {
+      "email_title": "Stay Connected",
+      "email_desc": "Reach me directly — always happy to discuss new ideas and opportunities.",
+      "email_cta": "Go to Gmail",
+      "instagram_title": "Follow My Journey",
+      "instagram_desc": "Behind-the-scenes dev life and creative projects.",
+      "instagram_cta": "Go to Instagram",
+      "linkedin_title": "Let's Connect",
+      "linkedin_desc": "Professional network, career updates, and articles.",
+      "linkedin_cta": "Go to LinkedIn",
+      "tiktok_title": "Join the Fun",
+      "tiktok_desc": "Short-form tech content and coding tips.",
+      "tiktok_cta": "Go to TikTok",
+      "github_title": "Explore Code",
+      "github_desc": "Open-source work, experiments, and side projects.",
+      "github_cta": "Go to GitHub"
+    },
+    "validation": {
+      "name_required": "Name is required",
+      "email_required": "Email is required",
+      "email_invalid": "Invalid email format",
+      "message_required": "Message is required",
+      "message_min": "Message must be at least 10 characters"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "read_more": "Read More",
+    "see_all": "See All",
+    "close": "Close",
+    "open": "Open",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "share": "Share",
+    "download": "Download",
+    "preview": "Preview",
+    "featured": "Featured",
+    "new": "New",
+    "updated": "Updated",
+    "coming_soon": "Coming Soon",
+    "in_progress": "In Progress",
+    "completed": "Completed",
+    "months": {
+      "jan": "January",
+      "feb": "February",
+      "mar": "March",
+      "apr": "April",
+      "may": "May",
+      "jun": "June",
+      "jul": "July",
+      "aug": "August",
+      "sep": "September",
+      "oct": "October",
+      "nov": "November",
+      "dec": "December"
+    }
+  },
+  "footer": {
+    "made_with": "Made with",
+    "and": "and",
+    "by": "by",
+    "rights": "All rights reserved.",
+    "back_to_top": "Back to top"
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "system": "System"
+  },
+  "language": {
+    "toggle": "Toggle language",
+    "id": "Bahasa Indonesia",
+    "en": "English",
+    "switch_to": "Switch to"
+  },
+  "404": {
+    "title": "Page Not Found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "cta": "Back to Home"
+  }
+}
