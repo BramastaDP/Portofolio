@@ -2,7 +2,7 @@
 
 import { useTranslations, useLocale } from 'next-intl';
 import { motion, AnimatePresence, useInView } from 'framer-motion';
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef } from 'react';
 import Image from 'next/image';
 import { Code2, ArrowRight, Star } from 'lucide-react';
 import { profile } from '@/data/profile';

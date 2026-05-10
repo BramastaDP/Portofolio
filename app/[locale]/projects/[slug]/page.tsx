@@ -1,5 +1,4 @@
 import { notFound } from 'next/navigation';
-import { getTranslations } from 'next-intl/server';
 import type { Metadata } from 'next';
 import { getProjectBySlug, projects } from '@/data/projects';
 import { ProjectDetailSection } from '@/components/sections/ProjectDetailSection';
