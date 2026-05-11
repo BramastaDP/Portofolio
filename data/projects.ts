@@ -69,7 +69,7 @@ export const projects: Project[] = [
       id: 'Dibangun dari nol menggunakan Next.js 14 App Router dan TypeScript, website ini dirancang untuk menampilkan karya dan perjalanan karier secara profesional.\n\nFitur utama mencakup dukungan dua bahasa (Bahasa Indonesia dan Inggris) menggunakan next-intl, animasi halus dengan Framer Motion (scroll progress, cursor spotlight, typewriter, 3D card tilt, magnetic button, timeline draw), splash screen intro sekali per sesi, command palette ⌘K untuk navigasi cepat, dark/light mode, serta SEO lengkap dengan Open Graph, Twitter Card, canonical URL, sitemap, dan robots.txt.\n\nSemua gambar dioptimasi dengan next/image, font menggunakan next/font, dan aksesibilitas dijaga dengan aria-label pada setiap tombol interaktif.',
       en: 'Built from scratch using Next.js 14 App Router and TypeScript, this website is designed to professionally showcase work and career journey.\n\nKey features include bilingual support (Bahasa Indonesia and English) via next-intl, smooth animations with Framer Motion (scroll progress, cursor spotlight, typewriter, 3D card tilt, magnetic button, timeline draw), a once-per-session splash screen intro, ⌘K command palette for quick navigation, dark/light mode, and full SEO with Open Graph, Twitter Card, canonical URLs, sitemap, and robots.txt.\n\nAll images are optimized with next/image, fonts via next/font, and accessibility is maintained with aria-labels on every interactive element.',
     },
-    thumbnail: '/images/projects/portfolio.png',
+    thumbnail: '/images/projects/portofolio.png',
     techStack: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'next-intl', 'React'],
     category: 'web',
     type: 'personal',
