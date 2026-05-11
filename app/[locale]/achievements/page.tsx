@@ -2,7 +2,7 @@ import { getTranslations } from 'next-intl/server';
 import type { Metadata } from 'next';
 import { AchievementsSection } from '@/components/sections/AchievementsSection';
 
-const BASE = process.env.NEXT_PUBLIC_BASE_URL ?? 'https://bramasta.dev';
+const BASE = process.env.NEXT_PUBLIC_BASE_URL ?? 'https://portofolio-five-murex.vercel.app';
 
 interface PageProps {
   params: Promise<{ locale: string }>;

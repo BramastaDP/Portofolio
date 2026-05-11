@@ -15,7 +15,7 @@ const dancingScript = Dancing_Script({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL ?? 'https://bramasta.dev'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL ?? 'https://portofolio-five-murex.vercel.app'),
   title: 'Bramasta — Portfolio',
   description: 'Portfolio of Bramasta, Full-Stack Developer & UI/UX Designer based in Bandung, Indonesia.',
 };

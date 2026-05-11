@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { projects } from '@/data/projects';
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL ?? 'https://bramasta.dev';
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL ?? 'https://portofolio-five-murex.vercel.app';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages = ['', '/about', '/projects', '/achievements', '/contact'];

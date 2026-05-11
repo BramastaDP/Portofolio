@@ -2,7 +2,7 @@
 
 Personal portfolio website built with Next.js 14, featuring bilingual support (ID/EN), smooth animations, and a clean dark-themed UI.
 
-**Live:** [bramasta.dev](https://bramasta.dev)
+**Live:** [portofolio-five-murex.vercel.app](https://portofolio-five-murex.vercel.app)
 
 ---
 

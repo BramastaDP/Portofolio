@@ -56,9 +56,37 @@ export const projects: Project[] = [
     reactions: [{ emoji: '🤖', count: 9 }, { emoji: '🔥', count: 7 }, { emoji: '⭐', count: 5 }],
   },
 
-  // ── 2. Pasar Kuliah (PasKu) ───────────────────────────────────────────────────
+  // ── 2. Personal Portfolio ─────────────────────────────────────────────────────
   {
     id: 2,
+    slug: 'personal-portfolio',
+    title: 'Personal Portfolio Website',
+    description: {
+      id: 'Website portofolio personal dengan dukungan dua bahasa (ID/EN), animasi Framer Motion, splash screen, command palette, dan optimasi SEO lengkap.',
+      en: 'Personal portfolio website with bilingual support (ID/EN), Framer Motion animations, splash screen, command palette, and full SEO optimization.',
+    },
+    longDescription: {
+      id: 'Dibangun dari nol menggunakan Next.js 14 App Router dan TypeScript, website ini dirancang untuk menampilkan karya dan perjalanan karier secara profesional.\n\nFitur utama mencakup dukungan dua bahasa (Bahasa Indonesia dan Inggris) menggunakan next-intl, animasi halus dengan Framer Motion (scroll progress, cursor spotlight, typewriter, 3D card tilt, magnetic button, timeline draw), splash screen intro sekali per sesi, command palette ⌘K untuk navigasi cepat, dark/light mode, serta SEO lengkap dengan Open Graph, Twitter Card, canonical URL, sitemap, dan robots.txt.\n\nSemua gambar dioptimasi dengan next/image, font menggunakan next/font, dan aksesibilitas dijaga dengan aria-label pada setiap tombol interaktif.',
+      en: 'Built from scratch using Next.js 14 App Router and TypeScript, this website is designed to professionally showcase work and career journey.\n\nKey features include bilingual support (Bahasa Indonesia and English) via next-intl, smooth animations with Framer Motion (scroll progress, cursor spotlight, typewriter, 3D card tilt, magnetic button, timeline draw), a once-per-session splash screen intro, ⌘K command palette for quick navigation, dark/light mode, and full SEO with Open Graph, Twitter Card, canonical URLs, sitemap, and robots.txt.\n\nAll images are optimized with next/image, fonts via next/font, and accessibility is maintained with aria-labels on every interactive element.',
+    },
+    thumbnail: '/images/projects/portfolio.png',
+    techStack: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'next-intl', 'React'],
+    category: 'web',
+    type: 'personal',
+    featured: false,
+    year: 2025,
+    duration: '1 bulan',
+    teamSize: 1,
+    role: { id: 'Full-Stack Developer & UI Designer', en: 'Full-Stack Developer & UI Designer' },
+    liveUrl: 'https://portofolio-five-murex.vercel.app',
+    githubUrl: 'https://github.com/BramastaDP/Portofolio',
+    status: 'completed',
+    reactions: [{ emoji: '🚀', count: 3 }, { emoji: '💯', count: 2 }],
+  },
+
+  // ── 3. Pasar Kuliah (PasKu) ───────────────────────────────────────────────────
+  {
+    id: 3,
     slug: 'pasar-kuliah',
     title: 'Pasar Kuliah (PasKu) — E-Commerce Web App',
     description: {
